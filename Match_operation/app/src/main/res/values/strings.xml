@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Match_operation</string>
+    <string name="URL">http://192.168.0.126/Match_server/index.php</string>
+    <string name="File_name">info.txt</string>
+    <string name="navigation_drawer_open">OPEN</string>
+    <string name="navigation_drawer_close">CLOSE</string>
+    <string name="kalkulator_ucznia">Kalkulator Ucznia</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="registration">registration</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="name">Name - Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="signin">Signin</string>
+    <string name="password_check">Repeat password</string>
+    <string name="title_activity_token">TokenInput</string>
+    <string name="token">Enter Your Token</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_calculation">Calculation</string>
+    <string name="mathematical_expression">Input mathematical expression</string>
+    <string name="do_the_calculation">Result</string>
+    <string name="Info">Info</string>
+    <string name="History">History</string>
+    <string name="Contact">Contact</string>
+    <string name="expression">Expression</string>
+    <string name="linia_2">Witam w programie</string>
+    <string name="linia_1">WYykonaj obliczenia</string>
+    <string name="logout">Logout</string>
+    <string name="homepage">HomePage</string>
+</resources>
